@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Lurker Mode",
+  "version": "0.1.0",
+  "description": "Read the Twitch chat of channels that banned you, right inside the page. Read-only, anonymous connection.",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "permissions": ["storage"],
+  "host_permissions": ["https://www.twitch.tv/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.twitch.tv/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}
