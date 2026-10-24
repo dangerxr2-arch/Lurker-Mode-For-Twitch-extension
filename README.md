@@ -34,7 +34,7 @@ Twitch lets anyone read a chat anonymously through its public chat connection (t
 
 The extension is not in the Chrome Web Store yet, so it is installed manually:
 
-1. Download this repository: **Code → Download ZIP**.
+1. Download this repository: **Code (green button)→ Download ZIP**.
 2. Unzip it. You need the unzipped folder: browsers cannot load a ZIP directly.
 3. Open `chrome://extensions` (Chrome) or `brave://extensions` (Brave).
 4. Turn on **Developer mode**.
@@ -101,7 +101,7 @@ Twitch permite que cualquiera lea un chat de forma anónima mediante su conexió
 
 La extensión aún no está en el Chrome Web Store, así que se instala manualmente:
 
-1. Descarga este repositorio: **Code → Download ZIP**.
+1. Descarga este repositorio: **Code (boton verde) → Download ZIP**.
 2. Descomprímelo. Necesitas la carpeta descomprimida: los navegadores no pueden cargar un ZIP directamente.
 3. Abre `chrome://extensions` (Chrome) o `brave://extensions` (Brave).
 4. Activa el **Modo de desarrollador**. (boton esquina superior derecha)
