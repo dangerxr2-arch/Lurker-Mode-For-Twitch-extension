@@ -74,6 +74,7 @@ The bar at the bottom shows the connection status ("Connected anonymously · rea
 
 This extension only reads chat that Twitch already shows to anyone without an account. Please respect the streamers and communities that moderated you. Use it responsibly and follow Twitch's Terms of Service.
 
+If this helped you, give it a ⭐
 ---
 
 ## Español
@@ -141,6 +142,7 @@ La barra de la parte inferior muestra el estado de la conexión ("Conectado de f
 
 Esta extensión solo lee el chat que Twitch ya muestra a cualquiera sin cuenta. Respeta a los streamers y comunidades que te moderaron. Úsala con responsabilidad y cumple los Términos de Servicio de Twitch.
 
+Si te sirvió, dale una ⭐
 ---
 
 ## License / Licencia
