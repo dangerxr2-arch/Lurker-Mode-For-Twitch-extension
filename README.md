@@ -3,6 +3,7 @@
 **EN** · Read the Twitch chat of channels that have banned you, natively inside the page.
 **ES** · Lee el chat de Twitch de los canales que te han baneado, de forma nativa dentro de la propia página.
 
+![Lurker Mode before and after](screenshots/before-after.png)
 Browser extension for **Chrome** and **Brave** (Manifest V3) · Extensión para **Chrome** y **Brave** (Manifest V3) · v0.1.0
 
 > Not affiliated with, endorsed by, or sponsored by Twitch. / No está afiliada, respaldada ni patrocinada por Twitch.
